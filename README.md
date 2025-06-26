@@ -1,5 +1,6 @@
 🩸 Blood Bank Management System
-📰 [Published Paper](https://img.shields.io/badge/JETIR-Published-blue)](http://www.jetir.org/view?paper=JETIRGW06017)
+🔗 [Read the Paper](http://www.jetir.org/view?paper=JETIRGW06017)
+
 📖 Overview
 The Blood Bank Management System is a desktop application developed using Python's Tkinter library for the GUI and MySQL for the backend database. It facilitates efficient management of blood donations and requests, ensuring streamlined operations for blood banks and hospitals.
 
